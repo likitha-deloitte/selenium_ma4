@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mini_asssignment4" />
+        <module name="mini_assignment4_pom" />
       </profile>
     </annotationProcessing>
   </component>
